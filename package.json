@@ -1,0 +1,11 @@
+{
+  "name": "bittorrentclone",
+  "version": "1.0.0",
+  "description": "bittorrent clone for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kuber Dhure",
+  "license": "ISC"
+}
